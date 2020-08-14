@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "name": "note dell",
+      "price": 2.999
+    },
+    {
+      "name": "samsung s20+",
+      "price": "7.500",
+      "id": 3
+    }
+  ]
+}
